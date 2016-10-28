@@ -11,3 +11,4 @@ Raynor Kuang, 2017, Lowell - "He's single"
 - Jeremy Lin, 2010, Winthrop, Ballerz
 - Teddy, 1900, Adams, Ballerz
 - Conan, 1900, Dunster, Dumpster
+- Maxwell Levenson, 2018, Pforzheimer, Website
