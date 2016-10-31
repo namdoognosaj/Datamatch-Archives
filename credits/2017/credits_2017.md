@@ -4,6 +4,7 @@
 Raynor Kuang, 2017, Lowell - "He's single"
 
 ### Subteam Leaders
+Larry Zhang, 2017, Adams - "Too good for you"
 
 #### Individual Members
 - Natalie Portman, 2003, Lowell, Website, Algorithm - "She's not single :("
