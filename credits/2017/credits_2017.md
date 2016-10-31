@@ -12,3 +12,4 @@ Larry Zhang, 2018, Adams, Website - "Too good for you"
 - Teddy Liu, 2020, Greenough, Website
 - Sam Goldman, 2019, Lowell, Data/Stats - "Enjoys sunsets and long walks on the beach"
 - Ying-ke Chin-Lee, 2020, Greenough, Algorithm, Website
+- Adit Chandra, 2019, Mather, Algorithm 
