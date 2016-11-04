@@ -16,3 +16,4 @@ Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
 - Adit Chandra, 2019, Mather, Algorithm
 - Richard Wang, 2019, Cabot, Website - "officially unofficial"
 - Maxwell Levenson, 2018, Pforzheimer, Website
+- Jeffrey He, 2020, Canaday, Website
