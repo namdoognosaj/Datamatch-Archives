@@ -17,3 +17,4 @@ Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
 - Richard Wang, 2019, Cabot, Website - "officially unofficial"
 - Maxwell Levenson, 2018, Pforzheimer, Website
 - Jeffrey He, 2020, Canaday, Website
+- Ifedayo Famojuro, 2019, Currier, Data/Stats - "Les Git It! (Haha, get it?)"
