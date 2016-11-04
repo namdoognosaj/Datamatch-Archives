@@ -18,3 +18,4 @@ Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
 - Maxwell Levenson, 2018, Pforzheimer, Website
 - Jeffrey He, 2020, Canaday, Website
 - Nabib Ahmed, 2019, Currier, Website - ""
+- Jarele Soyinka, 2019, Mather, Pub - "Enjoys beachsets and long walks on the sun"
