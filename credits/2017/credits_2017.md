@@ -21,4 +21,5 @@ Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
 - Nabib Ahmed, 2019, Currier, Website - ""
 - Jarele Soyinka, 2019, Mather, Pub - "Enjoys beachsets and long walks on the sun"
 - Ryan Lee, 2020, South Hollis, Data/Stats, "You're not being the person Harambe knows you can be"
-- Ifedayo Famojuro, 2019, Currier, Data/Stats - "Les Git it"
+- Ifedayo Famojuro, 2019, Currier, Data/Stats - "Les Git it (haha, get it?)"
+
