@@ -7,6 +7,7 @@ Raynor Kuang, 2017, Lowell - "He's single"
 - Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
 - Larry Zhang, 2018, Adams, Website - "Too good for you"
 - Russell Pekala, 2019, Leverett, Data/Stats - "I hate git"
+- Joan Zhang, 2017, Leverett, Publicity - "Ready to set all my friends up through DM"
 
 #### Individual Members
 - Natalie Portman, 2003, Lowell, Website, Algorithm - "She's not single :("
