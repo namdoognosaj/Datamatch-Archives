@@ -7,6 +7,7 @@ Raynor Kuang, 2017, Lowell - "He's single"
 - Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
 - Larry Zhang, 2018, Adams, Website - "Too good for you"
 - Russell Pekala, 2019, Leverett, Data/Stats - "I hate git"
+
 #### Individual Members
 - Natalie Portman, 2003, Lowell, Website, Algorithm - "She's not single :("
 - John Adams, 1755, N/A, Data/Stats, Pub - "France sucks yo"
