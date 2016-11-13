@@ -4,8 +4,9 @@
 Raynor Kuang, 2017, Lowell - "He's single"
 
 ### Subteam Leaders
-Larry Zhang, 2018, Adams, Website - "Too good for you"
-Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
+- Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
+- Larry Zhang, 2018, Adams, Website - "Too good for you"
+- Russell Pekala, 2019, Leverett, Data/Stats - "I hate git"
 
 #### Individual Members
 - Natalie Portman, 2003, Lowell, Website, Algorithm - "She's not single :("
@@ -23,4 +24,3 @@ Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
 - Ryan Lee, 2020, South Hollis, Data/Stats, "You're not being the person Harambe knows you can be"
 - Ifedayo Famojuro, 2019, Currier, Data/Stats - "Les Git it (haha, get it?)"
 - Lora Stoyanova, 2019, Cabot, Algorithm/Website - "I have a one nightstand in my dorm room"
-
