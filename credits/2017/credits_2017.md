@@ -19,6 +19,7 @@ Raynor Kuang, 2017, Lowell - "He's single"
 - Richard Wang, 2019, Cabot, Website - "officially unofficial"
 - Maxwell Levenson, 2018, Pforzheimer, Website
 - Jeffrey He, 2020, Canaday, Website
+- Catherine Tu, 2020, Greenough, Website
 - Monica Song, 2019, Dunster, Website
 - Nabib Ahmed, 2019, Currier, Website - ""
 - Jarele Soyinka, 2019, Mather, Pub - "Enjoys beachsets and long walks on the sun"
