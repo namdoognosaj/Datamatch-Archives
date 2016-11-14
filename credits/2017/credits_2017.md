@@ -3,6 +3,9 @@
 ## Head Honcho
 Raynor Kuang, 2017, Lowell - "He's single"
 
+## Other Guy
+Jason Goodman, 2018, Leverett - "Can clap with one hand"
+
 ### Subteam Leaders
 - Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
 - Larry Zhang, 2018, Adams, Website - "Too good for you"
